@@ -1,0 +1,9 @@
+prestador de serviço muito vago, especificar por exemplo em serviço de agua,luz,telecomunicações; serviço de outra coisa qq, e um importante que é uma equipa de IT;
+
+prestador de servicos externos cliente muito vago também, especificar mais em detalhe e separar em vários stackholders;
+
+depositários é irrelevante, sugeriu remover
+
+mudar nome de "estado" -> "governo"
+
+criar um stackholder "banco central" que pode ser o banco central europeu que empresta dinheiro aos bancos para o banco emprestar a nos;
